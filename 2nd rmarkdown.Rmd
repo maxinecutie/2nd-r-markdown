@@ -1,0 +1,9 @@
+---
+title: "2nd rmarkdown"
+author: "Gian Villamayor"
+date: "7/16/2021"
+output: html_document
+code_download: true
+---
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--odmAXyC2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7c52o9bi6bpqoiob9q0t.png)
+
